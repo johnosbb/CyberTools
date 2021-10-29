@@ -8,6 +8,10 @@
 * [Moxie Marlinspike](https://moxie.org/2011/04/11/ssl-and-the-future-of-authenticity.html)
 * [CVE Details](https://www.cvedetails.com/)
 
+# Reporting Spam and Phishing Emails
+* [Reporting Phishing]( Anti-Phishing Working Group at reportphishing@apwg.org)
+* [Reporting Spam](ReportFraud.ftc.gov.)
+
 # Resources
 * [Windows Virtual Machines](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 * [Linux Virtual Machines](https://www.osboxes.org/)
