@@ -10,7 +10,7 @@
 
 # Reporting Spam and Phishing Emails
 * [Reporting Phishing - The Anti-Phishing Working Group at reportphishing@apwg.org: ](reportphishing@apwg.org)
-* [Reporting Spam](ReportFraud.ftc.gov.)
+* [Reporting Spam - see ReportFraud.ftc.go](ReportFraud.ftc.gov.)
 
 # Resources
 * [Windows Virtual Machines](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
