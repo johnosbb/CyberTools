@@ -12,6 +12,9 @@
 * [Reporting Phishing - The Anti-Phishing Working Group at reportphishing@apwg.org: ](reportphishing@apwg.org)
 * [Reporting Spam - see ReportFraud.ftc.go](ReportFraud.ftc.gov.)
 
+# Identity Theft
+* [What To Know About Credit Freezes and Fraud Alerts](https://www.consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts)
+
 # Resources
 * [Windows Virtual Machines](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 * [Linux Virtual Machines](https://www.osboxes.org/)
