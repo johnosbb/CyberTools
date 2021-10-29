@@ -9,7 +9,7 @@
 * [CVE Details](https://www.cvedetails.com/)
 
 # Reporting Spam and Phishing Emails
-* [Reporting Phishing]( Anti-Phishing Working Group at reportphishing@apwg.org)
+* [Reporting Phishing - The Anti-Phishing Working Group at: ](reportphishing@apwg.org)
 * [Reporting Spam](ReportFraud.ftc.gov.)
 
 # Resources
