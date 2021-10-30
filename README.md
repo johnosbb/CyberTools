@@ -4,7 +4,7 @@
      <h3>A list of Internet Cyber Tools and Resources</h3>
      <a href="https://github.com/johnosbb/Automation/wiki">
          <img alt="Automation" src="https://github.com/johnosbb/CyberTools/blob/main/CyberSecurity.jpg"
-         width=400">
+         >
       </a>
 </div>
 
