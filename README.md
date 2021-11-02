@@ -35,4 +35,11 @@
 * [Disable Win Tracking Tools](https://github.com/10se1ucgo/DisableWinTracking) and [The latest fork of the project](https://github.com/bitlog2/DisableWinTracking)
 * [Tools for Changing your Mac Address on Windows](https://technitium.com/tmac/)
 * Tools for Changing your Mac Address on Linux - sudo apt install macchanger
-* [Poartable Apps](https://portableapps.com/)  and [Pendrive Apps](https://pendriveapps.com/)
+
+# Isolation Strategies
+## Portable Applications
+* [Portable Apps](https://portableapps.com/)  and [Pendrive Apps](https://pendriveapps.com/)
+## Isolations Silos
+* [Authentic8](https://www.authentic8.com/)
+* [Maxthon's Cloud Browser](https://www.maxthon.com/)
+
