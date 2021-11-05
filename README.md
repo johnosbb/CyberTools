@@ -43,3 +43,10 @@
 * [Authentic8](https://www.authentic8.com/)
 * [Maxthon's Cloud Browser](https://www.maxthon.com/)
 
+
+# Sandboxes
+* [BufferZone](https://bufferzonesecurity.com/)
+* [ShadowDefender](https://www.shadowdefender.com/)
+* [DeepFreeze kernal level driver, and deepfreeze cloud browser](https://www.fanonics.com)
+* [Comodo](https://www.comodo.com/)
+* [sandboxie](https://sandboxie-plus.com/)
