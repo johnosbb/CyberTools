@@ -49,7 +49,7 @@
 * [ShadowDefender](https://www.shadowdefender.com/)
 * [DeepFreeze kernal level driver, and deepfreeze cloud browser](https://www.fanonics.com)
 * [Comodo](https://www.comodo.com/)
-* [sandboxie](https://sandboxie-plus.com/)  [See also](http://www.jimopi.net/PDFs/Word%20Pro%20-%20Sandboxie.pdf)
+* [sandboxie](https://sandboxie-plus.com/) --- [See also  guide to setting up sandboxie](http://www.jimopi.net/PDFs/Word%20Pro%20-%20Sandboxie.pdf)
 
 
 # Windows Package Managers
