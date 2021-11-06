@@ -72,6 +72,10 @@
 * [Linux Containers](https://linuxcontainers.org/)
 * [Docker](https://www.docker.com/)
 
+
+## Other Isolation Technologies
+* Device Guard - Windows 10
+
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
 * 
