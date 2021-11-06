@@ -44,15 +44,28 @@
 * [Maxthon's Cloud Browser](https://www.maxthon.com/)
 
 
-# Sandboxes
-## Windows
+## Sandboxes
+### Windows
 * [BufferZone](https://bufferzonesecurity.com/)
 * [ShadowDefender](https://www.shadowdefender.com/)
 * [DeepFreeze kernal level driver, and deepfreeze cloud browser](https://www.fanonics.com)
 * [Comodo](https://www.comodo.com/)
 * [sandboxie](https://sandboxie-plus.com/) --- [See also  guide to setting up sandboxie](http://www.jimopi.net/PDFs/Word%20Pro%20-%20Sandboxie.pdf)
-## Linux
+### Linux
 * [Apparmor](https://gitlab.com/apparmor)
+* [SanFox](https://igurublog.wordpress.com/downloads/script-sandfox/)
+* [Sandboxing in Linux](https://www.opensourceforu.com/2016/07/many-approaches-sandboxing-linux/)
+* [FireJail](https://firejail.wordpress.com/)
+
+## Virtualization
+### Type 2
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+### Type 1
+* [Xenserver](https://xenproject.org/developers/teams/xen-hypervisor/)
+
+### Hybrid
+* [KVM](https://www.linux-kvm.org/page/Main_Page) - [See also, Virtual Machine Manager](https://virt-manager.org/)
 
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
