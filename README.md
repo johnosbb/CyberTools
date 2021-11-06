@@ -57,7 +57,7 @@
 * [Sandboxing in Linux](https://www.opensourceforu.com/2016/07/many-approaches-sandboxing-linux/)
 * [FireJail](https://firejail.wordpress.com/)
 
-## Virtualization
+## Virtualization (free and opensource)
 ### Type 2
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [VMPlayer](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
@@ -66,7 +66,10 @@
 * [Xenserver](https://xenproject.org/developers/teams/xen-hypervisor/)
 
 ### Hybrid
+#### Linux
 * [KVM](https://www.linux-kvm.org/page/Main_Page) - [See also, Virtual Machine Manager](https://virt-manager.org/)
+* [OpenVZ](https://openvz.org/)
+* [Linux Containers](https://linuxcontainers.org/)
 
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
