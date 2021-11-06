@@ -70,6 +70,7 @@
 * [KVM](https://www.linux-kvm.org/page/Main_Page) - [See also, Virtual Machine Manager](https://virt-manager.org/)
 * [OpenVZ](https://openvz.org/)
 * [Linux Containers](https://linuxcontainers.org/)
+* [Docker](https://www.docker.com/)
 
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
