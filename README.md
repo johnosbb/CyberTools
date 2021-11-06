@@ -59,7 +59,8 @@
 
 ## Virtualization
 ### Type 2
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* [VMPlayer](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 
 ### Type 1
 * [Xenserver](https://xenproject.org/developers/teams/xen-hypervisor/)
