@@ -75,6 +75,7 @@
 
 ### Virtualization Risks
 * [Venom](https://www.crowdstrike.com/blog/venom-vulnerability-details/)
+* [White Rabbit VT-D attack](https://invisiblethingslab.com/resources/2011/Software%20Attacks%20on%20Intel%20VT-d.pdf)
 
 ## Other Isolation Technologies
 * Device Guard - Windows 10
