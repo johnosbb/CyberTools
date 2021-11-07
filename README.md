@@ -15,6 +15,7 @@
 * [SSL Labs - Security Evaluation of Sites](https://www.ssllabs.com/ssltest/)
 * [Moxie Marlinspike](https://moxie.org/2011/04/11/ssl-and-the-future-of-authenticity.html)
 * [CVE Details](https://www.cvedetails.com/)
+* [Crowd Strike](https://www.crowdstrike.com)
 
 # Reporting Spam and Phishing Emails
 * [Reporting Phishing - The Anti-Phishing Working Group at reportphishing@apwg.org: ](reportphishing@apwg.org)
@@ -72,6 +73,8 @@
 * [Linux Containers](https://linuxcontainers.org/)
 * [Docker](https://www.docker.com/)
 
+### Virtualization Risks
+* [Venom](https://www.crowdstrike.com/blog/venom-vulnerability-details/)
 
 ## Other Isolation Technologies
 * Device Guard - Windows 10
