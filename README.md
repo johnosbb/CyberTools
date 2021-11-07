@@ -77,6 +77,20 @@
 * [Venom](https://www.crowdstrike.com/blog/venom-vulnerability-details/)
 * [White Rabbit VT-D attack](https://invisiblethingslab.com/resources/2011/Software%20Attacks%20on%20Intel%20VT-d.pdf)
 
+### Virtual Machine Hardening
+* Use a USB based network adapter to isolate from the host adapter.
+* USe whole disk encryption on the host operating system to prevent logs, caches etc being used as an attack point from the host.
+* Clear down swap space and caches after use
+* Use Hypervisor encryption
+* Disable all unnecessary functions like:
+     * 3D accelerateion, serial ports, video acceleration, drag and drop/clipboard. 
+     * If possible do not install VMWare tools and VirtualBox extensions.
+     *  Do not redirect USB and disable the USB controller (USe a PS2 Mouse on the VM). 
+     *  Enable PAE/NX.
+     *  Consider live operating systems and if possible do not use persistent storage.
+     *  Use snapshots for a clean machine on each new activity.
+     *  Avoid hybernating or sleeping VMs - keys are stored in memory or the harddisk.
+
 ## Other Isolation Technologies
 * Device Guard - Windows 10
 
