@@ -100,6 +100,11 @@
      * SDWdate - an anonomous time service used by whonix, also used by Tor, unlike NTP it preserves anonimity.
      * The whonix gateway can be used by other VMs and non-whonix workstations to provide secure access.
 
+# SSH
+* ssh-keygen - generate public keys in a folder of your choosing
+* ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
+
+
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
 * 
