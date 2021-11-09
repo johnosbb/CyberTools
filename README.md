@@ -103,7 +103,7 @@
 # SSH
 * ssh-keygen - generate public keys in a folder of your choosing
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
-* Windows: type $env:USERPROFILE\.ssh\id_rsa.pub | ssh <remote_ip_address> "cat >> .ssh/authorized_keys"
+* Windows: [See here](https://github.com/VijayS1/Scripts/tree/master/ssh-copy-id)
 
 
 # Windows Package Managers
