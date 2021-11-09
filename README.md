@@ -95,10 +95,38 @@
 * Device Guard - Windows 10
 
 # Operating Systems for Security and Privacy
+## Whonix
+### Strengths
 * [whonix](https://www.whonix.org) A whonix workstation connects directly to a thor based gateway and is isolated from a local LAN.
      * Anonymising Relay Monitor - [ARM](https://github.com/katmagic/arm) - similar to top on unix, but for Tor. Command line application for monitoring Tor relays, providing real time status information such as the current configuration, bandwidth usage, message log, connections, etc.
      * SDWdate - an anonomous time service used by whonix, also used by Tor, unlike NTP it preserves anonimity.
      * The whonix gateway can be used by other VMs and non-whonix workstations to provide secure access.
+### Weaknesses
+* It is easy to identify if someone is using whonix.
+* Whonix does not encrypt by default.
+* It does not protect again rootkits etc.
+* It does not protect against hardware compromise.
+* It can be difficult set up requiring virtual machines or additional hardware.
+* Unlike tails (and other amnesic operating systems) whonix can leaves traces on the hardware.
+
+
+## Quebes
+### Strengths
+* Desktop OS based on xen hypervisor; it uses virtualisation for isolation between security domains.
+* Quebes Templates allow the desktop to be comfigured liked popular operating systems.
+* Unlike momolithic architectures (Trusted Components Base) were a lot of code runs with elevated privalleges, xen is a type 1 hypervisor and quebes runs a micro kernel on top of this. This provides distinct advantages by reducing the attack space.
+* Dom0 controls the screen and desktop, but has no network access.
+* Applications run in different VMs, but Dom0 presents this as a single desktop.
+* There is a Net VM which takes care of all network activity. Even is the network VM is compromised the malicious code still cannot escalate privellege to reach other isolated components.
+* USB can also be isolated in a VM.
+* Each application can run in a seperate VM, so we could have a browser for banking and a browser for hacking, for example.
+* Quebes has built in integration with Tor.
+
+
+### Weaknesses
+* TBC
+     
+
 
 # SSH
 * ssh-keygen - generate public keys in a folder of your choosing
