@@ -94,6 +94,12 @@
 ## Other Isolation Technologies
 * Device Guard - Windows 10
 
+# Operating Systems for Security and Privacy
+* [whonix](https://www.whonix.org) A whonix workstation connects directly to a thor based gateway and is isolated from a local LAN.
+     * Anonomising Relay Monitot - ARM - similar to top on unix, but for Tor. Shows connections, configurations, etc
+     * SDWdate - an anonomous time service used by whonix, also used by Tor, unlike NTP it preserves anonimity.
+     * The whonix gateway can be used by other VMs and non-whonix workstations to provide secure access.
+
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
 * 
