@@ -135,6 +135,7 @@
 * Shodan is the world's first search engine for Internet-connected devices. [Shodan Web Site](https://www.shodan.io/)
      * We can use Shodan to search for vunerabilities, for example searching for 'Default Password' shows devices still using the default password and username.
      * It features an exploits database: [https://exploits.shodan.io/welcome](https://exploits.shodan.io/welcome)
+     * We can search for an IP address using https://www.shodan.io/host/<address>
 
 # SSH
 * ssh-keygen - generate public keys in a folder of your choosing
