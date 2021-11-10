@@ -110,21 +110,22 @@
 * Unlike tails (and other amnesic operating systems) whonix can leaves traces on the hardware.
 
 
-## Quebes
+## Qubes
 ### Strengths
 * Desktop OS based on xen hypervisor; it uses virtualisation for isolation between security domains.
-* Quebes Templates allow the desktop to be comfigured liked popular operating systems.
+* Qubes Templates allow the desktop to be comfigured liked popular operating systems.
 * Unlike momolithic architectures (Trusted Components Base) were a lot of code runs with elevated privalleges, xen is a type 1 hypervisor and quebes runs a micro kernel on top of this. This provides distinct advantages by reducing the attack space.
 * Dom0 controls the screen and desktop, but has no network access.
 * Applications run in different VMs, but Dom0 presents this as a single desktop.
 * There is a Net VM which takes care of all network activity. Even is the network VM is compromised the malicious code still cannot escalate privellege to reach other isolated components.
 * USB can also be isolated in a VM.
 * Each application can run in a seperate VM, so we could have a browser for banking and a browser for hacking, for example.
-* Quebes has built in integration with Tor.
+* Qubes has built in integration with Tor.
 
 
 ### Weaknesses
-* TBC
+* It supports a limited range of hardware at the moment.- [see the Hardware Compatability List](https://www.qubes-os.org/hcl/)
+* 
      
 
 
