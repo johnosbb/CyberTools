@@ -125,8 +125,10 @@
 
 ### Weaknesses
 * It supports a limited range of hardware at the moment.- [see the Hardware Compatability List](https://www.qubes-os.org/hcl/)
-* 
+*
      
+### Security Domains and Isolation
+* Consider isolating your activites into different domains, use a virtualised or sandboxed browser to surf the web to isolate routine activities from attack.
 
 
 # SSH
