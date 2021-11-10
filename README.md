@@ -131,6 +131,11 @@
 * Consider isolating your activites into different domains, use a virtualised or sandboxed browser to surf the web to isolate routine activities from attack.
 
 
+# Router Security
+* Shodan is the world's first search engine for Internet-connected devices. [Shodan Web Site](https://www.shodan.io/)
+     * We can use Shodan to search for vunerabilities, for example searching for 'Default Password' shows devices still using the default password and username.
+     * It features an exploits database: [https://exploits.shodan.io/welcome](https://exploits.shodan.io/welcome)
+
 # SSH
 * ssh-keygen - generate public keys in a folder of your choosing
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
