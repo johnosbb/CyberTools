@@ -19,6 +19,7 @@
 * [MXToolBox](https://mxtoolbox.com/) - Port scanning, DNS lookup, Analysis
 * [NMAP Onlice](https://nmap.online/) - Port Scanning, Security Analysis
 * [Shieldsup - Gibson Research](https://nmap.online/) - Port Scanning, general security auditing, password generation
+* [Vunerability Scanning](https://www.qualys.com/free-trial/)
 
 # Reporting Spam and Phishing Emails
 * [Reporting Phishing - The Anti-Phishing Working Group at reportphishing@apwg.org: ](reportphishing@apwg.org)
