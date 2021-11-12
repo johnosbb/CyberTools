@@ -16,6 +16,8 @@
 * [Moxie Marlinspike](https://moxie.org/2011/04/11/ssl-and-the-future-of-authenticity.html)
 * [CVE Details](https://www.cvedetails.com/)
 * [Crowd Strike](https://www.crowdstrike.com)
+* [MXToolBox](https://mxtoolbox.com/) - Port scanning, DNS lookup, Analysis
+* [NMAP Onlice](https://nmap.online/) - Port Scanning, Security Analysis
 
 # Reporting Spam and Phishing Emails
 * [Reporting Phishing - The Anti-Phishing Working Group at reportphishing@apwg.org: ](reportphishing@apwg.org)
