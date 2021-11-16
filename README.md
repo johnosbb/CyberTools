@@ -20,7 +20,8 @@
 * [NMAP Onlice](https://nmap.online/) - Port Scanning, Security Analysis
 * [Shieldsup - Gibson Research](https://nmap.online/) - Port Scanning, general security auditing, password generation
 * [Vunerability Scanning](https://www.qualys.com/free-trial/)
-* [Hashes Database](https://github.com/AdeptusM/hashes_
+* [Hashes Database](https://github.com/AdeptusM/hashes)
+
 
 # Reporting Spam and Phishing Emails
 * [Reporting Phishing - The Anti-Phishing Working Group at reportphishing@apwg.org: ](reportphishing@apwg.org)
@@ -41,6 +42,7 @@
 * [Disable Win Tracking Tools](https://github.com/10se1ucgo/DisableWinTracking) and [The latest fork of the project](https://github.com/bitlog2/DisableWinTracking)
 * [Tools for Changing your Mac Address on Windows](https://technitium.com/tmac/)
 * Tools for Changing your Mac Address on Linux - sudo apt install macchanger
+* [Windows Hash Extraction Tools - pwdump7](https://www.tarasco.org/security/pwdump_7/)
 
 # Isolation Strategies
 ## Portable Applications
