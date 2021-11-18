@@ -43,6 +43,7 @@
 * [Tools for Changing your Mac Address on Windows](https://technitium.com/tmac/)
 * Tools for Changing your Mac Address on Linux - sudo apt install macchanger
 * [Windows Hash Extraction Tools - pwdump7](https://www.tarasco.org/security/pwdump_7/)
+* [Hacking Tools Cheat Sheet](https://www.stationx.net/hacking-tools-cheat-sheet/)
 
 # Isolation Strategies
 ## Portable Applications
