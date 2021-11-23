@@ -22,6 +22,10 @@
 * [Vunerability Scanning](https://www.qualys.com/free-trial/)
 * [Hashes Database](https://github.com/AdeptusM/hashes)
 
+# Routers and Firewalls
+* [Router default passwords](https://www.routerpasswords.com/)
+* 
+
 
 # Reporting Spam and Phishing Emails
 * [Reporting Phishing - The Anti-Phishing Working Group at reportphishing@apwg.org: ](reportphishing@apwg.org)
