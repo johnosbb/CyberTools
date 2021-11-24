@@ -152,7 +152,8 @@
 # SSH
 * ssh-keygen - generate public keys in a folder of your choosing
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
-* Windows: [See here](https://github.com/VijayS1/Scripts/tree/master/ssh-copy-id)
+* [Generating SSH key-pairs on Windows](https://www.ibm.com/docs/en/flashsystem-9x00/8.3.x?topic=host-generating-ssh-key-pair-using-putty)
+* [Copying SSH keys from Windows to target device](https://github.com/VijayS1/Scripts/tree/master/ssh-copy-id)
 
 
 # Windows Package Managers
