@@ -48,6 +48,7 @@
 * Tools for Changing your Mac Address on Linux - sudo apt install macchanger
 * [Windows Hash Extraction Tools - pwdump7](https://www.tarasco.org/security/pwdump_7/)
 * [Hacking Tools Cheat Sheet](https://www.stationx.net/hacking-tools-cheat-sheet/)
+* [Pen Testing Resources](https://pentest-tools.com/)
 
 # Isolation Strategies
 ## Portable Applications
