@@ -55,6 +55,7 @@
 
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
+* [Microsoft Baseline Security Analyser](https://www.microsoft.com/security/blog/2012/10/22/microsoft-free-security-tools-microsoft-baseline-security-analyzer/)
 
 # Isolation Strategies
 ## Portable Applications
