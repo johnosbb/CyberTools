@@ -50,6 +50,9 @@
 * [Hacking Tools Cheat Sheet](https://www.stationx.net/hacking-tools-cheat-sheet/)
 * [Pen Testing Resources](https://pentest-tools.com/)
 
+## Port Scanning Tools
+* [zenmap](https://nmap.org/zenmap/) - Cross platform Port Scanner
+
 # Isolation Strategies
 ## Portable Applications
 * [Portable Apps](https://portableapps.com/)  and [Pendrive Apps](https://pendriveapps.com/)
