@@ -53,6 +53,9 @@
 ## Port Scanning Tools
 * [zenmap](https://nmap.org/zenmap/) - Cross platform Port Scanner
 
+## Anti Malware Tools and Encryption
+* [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
+
 # Isolation Strategies
 ## Portable Applications
 * [Portable Apps](https://portableapps.com/)  and [Pendrive Apps](https://pendriveapps.com/)
