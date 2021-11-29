@@ -164,6 +164,9 @@
 * [Copying SSH keys from Windows to target device](https://github.com/VijayS1/Scripts/tree/master/ssh-copy-id)
 
 
+# OAuth 2.0
+* [Implementation in Nodejs](https://github.com/danba340/oauth-github-example) -- [Video Demo](https://www.youtube.com/watch?v=PdFdd4N6LtI)
+
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
 * 
