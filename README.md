@@ -71,7 +71,7 @@
 * More complex firewalls work at the application layer to do DPI (Deep Packet Inspection), they can determine whether the traffic conforms to the profile set for a particular port. 
 * Host based firewalls like Windows Firewall or Linux IP tables are found on computers.
 * Egress filtering: - Blocking outgoing traffic. This can prevent malware from communicating back out to a command centre.
-
+* [User Friendly Front End for Windows Firewall Control](https://binisoft.org/wfc)
 
 ## Sandboxes
 ### Windows
