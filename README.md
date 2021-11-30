@@ -56,6 +56,8 @@
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
 * [Microsoft Baseline Security Analyser](https://www.microsoft.com/security/blog/2012/10/22/microsoft-free-security-tools-microsoft-baseline-security-analyzer/)
+* [OpenVas](https://www.openvas.org/)
+* [Nessus Essentials - Free version, formally Home Edition](https://www.tenable.com/products/nessus/nessus-essentials)
 
 # Isolation Strategies
 ## Portable Applications
@@ -63,6 +65,12 @@
 ## Isolations Silos
 * [Authentic8](https://www.authentic8.com/)
 * [Maxthon's Cloud Browser](https://www.maxthon.com/)
+
+# Firewalls
+* Simpler firewalls are based on layers 3 or 4 to accept o reject traffic based on Port, Protocol and Address
+* More complex firewalls work at the application layer to do DPI (Deep Packet Inspection), they can determine whether the traffic conforms to the profile set for a particular port. 
+* Host based firewalls like Windows Firewall or Linux IP tables are found on computers.
+* Egress filtering: - Blocking outgoing traffic. This can prevent malware from communicating back out to a command centre.
 
 
 ## Sandboxes
