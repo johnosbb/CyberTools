@@ -72,6 +72,8 @@
 * Host based firewalls like Windows Firewall or Linux IP tables are found on computers.
 * Egress filtering: - Blocking outgoing traffic. This can prevent malware from communicating back out to a command centre.
 * [User Friendly Front End for Windows Firewall Control](https://binisoft.org/wfc)
+* [GUFW - GUI for UFW and IP tables](http://gufw.org/)
+* [Shorewall - GUI for UFW and IP tables](https://shorewall.org/)
 
 ## Sandboxes
 ### Windows
