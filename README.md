@@ -64,6 +64,8 @@
 * [Caine and Able - now no longer supported](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html)
 * [EtterCap](https://www.ettercap-project.org/)
 * [ArpSpoof](https://linux.die.net/man/8/arpspoof)
+* [TuxCut -Arp Spoofing and denial of service](https://github.com/a-atalla/tuxcut)
+* [NetCut](https://arcai.com/tag/arp-spoof/)
 
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
