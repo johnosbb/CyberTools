@@ -93,6 +93,7 @@
 
 ## Network Isolation
 * [Yersinia - VLAN Hoping](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Berrueta_Andres/BH_EU_05_Berrueta_Andres.pdf)
+* Physical Isolation using seperate switches and routers
 ## Sandboxes
 ### Windows
 * [BufferZone](https://bufferzonesecurity.com/)
