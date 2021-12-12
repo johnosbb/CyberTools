@@ -89,6 +89,10 @@
 * [GUFW - GUI for UFW and IP tables](http://gufw.org/)
 * [Shorewall - GUI for UFW and IP tables](https://shorewall.org/)
 
+
+
+## Network Isolation
+* [Yersinia - VLAN Hoping](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Berrueta_Andres/BH_EU_05_Berrueta_Andres.pdf)
 ## Sandboxes
 ### Windows
 * [BufferZone](https://bufferzonesecurity.com/)
