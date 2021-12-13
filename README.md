@@ -64,8 +64,12 @@
 * [Caine and Able - now no longer supported](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html)
 * [EtterCap](https://www.ettercap-project.org/)
 * [ArpSpoof](https://linux.die.net/man/8/arpspoof)
-* [TuxCut -Arp Spoofing and denial of service](https://github.com/a-atalla/tuxcut)
-* [NetCut](https://arcai.com/tag/arp-spoof/)
+* [TuxCut -Arp Spoofing protection and denial of service](https://github.com/a-atalla/tuxcut)
+* [NetCut - similar to TuxCut](https://arcai.com/tag/arp-spoof/)
+* [SniffDet] (https://sourceforge.net/projects/sniffdet/)
+
+
+
 
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
@@ -94,6 +98,10 @@
 ## Network Isolation
 * [Yersinia - VLAN Hoping](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Berrueta_Andres/BH_EU_05_Berrueta_Andres.pdf)
 * Physical Isolation using seperate switches and routers
+
+## Wireless Security
+* [![image](https://user-images.githubusercontent.com/12407183/145888110-12520a1d-7211-4022-a2d3-adfc32cde680.png)
+
 ## Sandboxes
 ### Windows
 * [BufferZone](https://bufferzonesecurity.com/)
