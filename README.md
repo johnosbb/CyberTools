@@ -102,6 +102,7 @@
 ## Wireless Security
 * The preferred configuration for home networks is WEPA-2 Personal with AES (CCMP) and a 256 bit pre-shared key.
 ![image](https://user-images.githubusercontent.com/12407183/145888110-12520a1d-7211-4022-a2d3-adfc32cde680.png)
+* WPA2 Enterprise uses a radius server which avoids having one fixed key. 
 
 ## Sandboxes
 ### Windows
