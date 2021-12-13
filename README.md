@@ -100,7 +100,7 @@
 * Physical Isolation using seperate switches and routers
 
 ## Wireless Security
-* [![image](https://user-images.githubusercontent.com/12407183/145888110-12520a1d-7211-4022-a2d3-adfc32cde680.png)
+* ![image](https://user-images.githubusercontent.com/12407183/145888110-12520a1d-7211-4022-a2d3-adfc32cde680.png)
 
 ## Sandboxes
 ### Windows
