@@ -100,7 +100,8 @@
 * Physical Isolation using seperate switches and routers
 
 ## Wireless Security
-* ![image](https://user-images.githubusercontent.com/12407183/145888110-12520a1d-7211-4022-a2d3-adfc32cde680.png)
+* The preferred configuration for home networks is WEPA-2 Personal with AES and a 256 bit pre-shared key.
+![image](https://user-images.githubusercontent.com/12407183/145888110-12520a1d-7211-4022-a2d3-adfc32cde680.png)
 
 ## Sandboxes
 ### Windows
