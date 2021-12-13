@@ -100,7 +100,7 @@
 * Physical Isolation using seperate switches and routers
 
 ## Wireless Security
-* The preferred configuration for home networks is WEPA-2 Personal with AES and a 256 bit pre-shared key.
+* The preferred configuration for home networks is WEPA-2 Personal with AES (CCMP) and a 256 bit pre-shared key.
 ![image](https://user-images.githubusercontent.com/12407183/145888110-12520a1d-7211-4022-a2d3-adfc32cde680.png)
 
 ## Sandboxes
@@ -110,6 +110,7 @@
 * [DeepFreeze kernal level driver, and deepfreeze cloud browser](https://www.fanonics.com)
 * [Comodo](https://www.comodo.com/)
 * [sandboxie](https://sandboxie-plus.com/) --- [See also  guide to setting up sandboxie](http://www.jimopi.net/PDFs/Word%20Pro%20-%20Sandboxie.pdf)
+
 ### Linux
 * [Apparmor](https://gitlab.com/apparmor)
 * [SanFox](https://igurublog.wordpress.com/downloads/script-sandfox/)
