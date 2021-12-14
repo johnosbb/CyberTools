@@ -105,6 +105,7 @@
 * WPA2 Enterprise uses a radius server which avoids having one fixed key. WEPA2 with a fixed key is open to brute force attacks. The seeding of the encryption is based on the SSID of the network. Rainbow tables are constructed for common SSIDs.
 * [WEPA2 Attacks - CowPatty - available in Kali](https://www.willhackforsushi.com/?page_id=50)
 * [WEP Vulnerability](https://infosecwriteups.com/exploiting-wps-hack-a-wps-enabled-wifi-using-reaver-and-fake-authentication-7071b222a33b)
+* [Evil Twin](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
 
 ## Sandboxes
 ### Windows
