@@ -106,6 +106,7 @@
 * [WEPA2 Attacks - CowPatty - available in Kali](https://www.willhackforsushi.com/?page_id=50)
 * [WEP Vulnerability](https://infosecwriteups.com/exploiting-wps-hack-a-wps-enabled-wifi-using-reaver-and-fake-authentication-7071b222a33b)
 * [Evil Twin](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
+* [Wifi Pinapple](https://shop.hak5.org/products/wifi-pineapple)
 
 ## Sandboxes
 ### Windows
