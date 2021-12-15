@@ -113,6 +113,11 @@ A USB adapter is required with one of the following chips sets:
 ![image](https://user-images.githubusercontent.com/12407183/146262417-5af3fd78-0d04-4bed-9aad-e5bf6fe20f5a.png)
 The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammers.net/2015/09/best-usb-wireless-adapterscards.html)
 
+#### Tools
+* [Aircrack-ng](https://www.aircrack-ng.org/)
+* [WEPA2 Attacks - CowPatty - available in Kali](https://www.willhackforsushi.com/?page_id=50
+* [Reaver](https://www.kali.org/tools/reaver/)
+* [Fern Wifi Cracker - Tool with GUI front End](https://github.com/savio-code/fern-wifi-cracker)
 
 
 ## Sandboxes
