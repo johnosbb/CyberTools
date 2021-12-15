@@ -108,6 +108,13 @@
 * [Evil Twin](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
 * [Wifi Pinapple](https://shop.hak5.org/products/wifi-pineapple)
 
+### Wifi Injection Tools
+A USB adapter is required with one of the following chips sets:
+![image](https://user-images.githubusercontent.com/12407183/146262417-5af3fd78-0d04-4bed-9aad-e5bf6fe20f5a.png)
+The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammers.net/2015/09/best-usb-wireless-adapterscards.html)
+
+
+
 ## Sandboxes
 ### Windows
 * [BufferZone](https://bufferzonesecurity.com/)
