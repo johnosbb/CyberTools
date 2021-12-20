@@ -69,6 +69,18 @@
 * [SniffDet] (https://sourceforge.net/projects/sniffdet/)
 
 
+### Network Monitoring Tools
+* [Wireshark](https://www.wireshark.org/)
+* [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
+* [TCP Dump](https://www.tcpdump.org/)
+
+Ideally we need to run Wireshark on the Router. TCPDump is available on alot of routers
+![image](https://user-images.githubusercontent.com/12407183/146830676-d5ef0ac1-ecce-447f-9bd1-f6030acd5872.png)
+* tcpdump -D -- show available interfaces
+* tcpdump -i eth0 -- snoop on Eth0
+* tcpdump -i any -- snoop on all interfaces
+* tcpdump -n -i any dst port 80 - snoop on port 80, n shows IP addresses and Port numbers rather than domain names.
+* tcpdump -n -i any port 554 - snoop on port 554 for DNS traffic
 
 
 ## Anti Malware Tools and Encryption
