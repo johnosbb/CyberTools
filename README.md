@@ -79,9 +79,10 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 * tcpdump -D -- show available interfaces
 * tcpdump -i eth0 -- snoop on Eth0
 * tcpdump -i any -- snoop on all interfaces
-* tcpdump -n -i any dst port 80 - snoop on port 80, n shows IP addresses and Port numbers rather than domain names.
-* tcpdump -n -i any port 554 - snoop on port 554 for DNS traffic
-
+* tcpdump -n -i any dst port 80 -- snoop on port 80, n shows IP addresses and Port numbers rather than domain names.
+* tcpdump -n -i any port 554 -- snoop on port 554 for DNS traffic
+* tcpdump -n -i any host 192.168.1.254 and not src net 192.168.1.0/24 -- find traffic connecting to 192.168.1.254 which is outside of this local IP range.
+* tcpdump -n -i any -s 65535 -w mycapture.cap -- capture traffic of frames 65535 bytes to a file called mycapture.cap
 
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
