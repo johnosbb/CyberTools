@@ -74,6 +74,7 @@
 * [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
 * [TCP Dump](https://www.tcpdump.org/)
 * Capturing pcap files over SSH - ssh root@192.168.1.10 -- "tcpdump -w - -s 65535 'not port 22'" > capture.pcap
+* Capturing pcap traffic live over SSH - ssh root@192.168.1.10 -- "tcpdump -U -s 65535 -w - 'not port 22'" | wireshark -k -i -
 
 Ideally we need to run Wireshark on the Router. TCPDump is available on alot of routers
 ![image](https://user-images.githubusercontent.com/12407183/146830676-d5ef0ac1-ecce-447f-9bd1-f6030acd5872.png)
