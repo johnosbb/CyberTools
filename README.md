@@ -78,6 +78,7 @@
 
 Ideally we need to run Wireshark on the Router. TCPDump is available on alot of routers
 ![image](https://user-images.githubusercontent.com/12407183/146830676-d5ef0ac1-ecce-447f-9bd1-f6030acd5872.png)
+* tcpdump -U = no buffering
 * tcpdump -D -- show available interfaces
 * tcpdump -i eth0 -- snoop on Eth0
 * tcpdump -i any -- snoop on all interfaces
