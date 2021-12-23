@@ -268,6 +268,11 @@ echo %id% | plink.exe %user% -pw %pw% "umask 077; test -d .ssh || mkdir .ssh ; c
 :end
 pause
 ```
+## SSH Configuration on Ubuntu
+* chmod go-w /home/user
+* chmod 700 /home/user/.ssh
+* chmod 600 /home/user/.ssh/authorized_keys
+
 
 
 # OAuth 2.0
