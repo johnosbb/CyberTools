@@ -237,7 +237,37 @@ The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammer
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
 * [Generating SSH key-pairs on Windows](https://www.ibm.com/docs/en/flashsystem-9x00/8.3.x?topic=host-generating-ssh-key-pair-using-putty)
 * [Copying SSH keys from Windows to target device](https://github.com/VijayS1/Scripts/tree/master/ssh-copy-id)
-* For puttygen the public key is saved in C:\Users\<username>\.ssh\publicKey
+* Use PuttyGen to create a public key
+
+```bash
+::usage: ssh-copy-id test@example.com password [id_ras.pub]
+
+::@echo off
+IF "%~3"=="" GOTO setdefault
+set /p id=<%3
+GOTO checkparams
+:setdefault
+set /p id=<id_rsa.pub
+:checkparams
+IF "%~1"=="" GOTO promptp
+IF "%~2"=="" GOTO promptp2
+
+:exec
+:: To accept the signature the first time
+echo y | plink.exe %1 -pw %2 "exit"
+:: now to actually copy the key
+echo %id% | plink.exe %1 -pw %2 "umask 077; test -d .ssh || mkdir .ssh ; cat >> .ssh/authorized_keys"
+GOTO end
+
+:promptp
+set /p user= "Enter username@remotehost.com: "
+:promptp2
+set /p pw= "Enter password: "
+echo y | plink.exe %user% -pw %pw% "exit"
+echo %id% | plink.exe %user% -pw %pw% "umask 077; test -d .ssh || mkdir .ssh ; cat >> .ssh/authorized_keys"
+:end
+pause
+```
 
 
 # OAuth 2.0
