@@ -233,11 +233,11 @@ The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammer
      * We can search for an IP address using https://www.shodan.io/host/ followed by the ip address
 
 # SSH
-* ssh-keygen - generate public keys in a folder of your choosing
+* For Putty - ssh-keygen - generate public keys in a folder of your choosing
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
 * [Generating SSH key-pairs on Windows](https://www.ibm.com/docs/en/flashsystem-9x00/8.3.x?topic=host-generating-ssh-key-pair-using-putty)
 * [Copying SSH keys from Windows to target device](https://github.com/VijayS1/Scripts/tree/master/ssh-copy-id)
-* Use PuttyGen to create a public key called id_ras.pub, run the script below to install the key on the target: ssh-copy-id.bat username@192.168.1.10 password id_ras.pub
+* OpenSSH, use ssh-keygen to create a public key called id_ras.pub, run the script below to install the key on the target: ssh-copy-id.bat username@192.168.1.10 password id_ras.pub
 
 ```bash
 ::usage: ssh-copy-id test@example.com password [id_ras.pub]
@@ -273,8 +273,19 @@ pause
 * chmod 700 /home/user/.ssh
 * chmod 600 /home/user/.ssh/authorized_keys
 
+## Connecting with VSCode
+
+```yaml
+Host LinuxBox_191
+    HostName 192.168.1.121
+    User `yourusername
 
 
+Host RaspberryPI
+    HostName 192.168.1.131
+    User yourusername
+
+``
 # OAuth 2.0
 * [Implementation in Nodejs](https://github.com/danba340/oauth-github-example) -- [Video Demo](https://www.youtube.com/watch?v=PdFdd4N6LtI)
 * [oAuth and dropbox] (https://docs.runmyprocess.com/Integration_Guide/OAuth2/Dropbox/)
