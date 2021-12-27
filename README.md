@@ -98,6 +98,10 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 * tcpdump -n -i any host 192.168.1.254 and not src net 192.168.1.0/24 -- find traffic connecting to 192.168.1.254 which is outside of this local IP range.
 * tcpdump -n -i any -s 65535 -w mycapture.cap -- capture traffic of frames 65535 bytes to a file called mycapture.cap
 
+#### NCT
+* [Network Security Toolkit](https://www.networksecuritytoolkit.org/nst/index.html)
+
+
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
 * [Microsoft Baseline Security Analyser](https://www.microsoft.com/security/blog/2012/10/22/microsoft-free-security-tools-microsoft-baseline-security-analyzer/)
