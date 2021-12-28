@@ -103,6 +103,8 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 * [Network Miner](https://www.netresec.com/)
 * [NetWorx](https://networx.en.lo4d.com/windows)
 
+##### Burp Suite
+* [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
