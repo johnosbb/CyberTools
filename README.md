@@ -111,11 +111,25 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 ##### Browser Integrity Checking
 * [Panoptoclick](https://www.eff.org/deeplinks/2017/11/panopticlick-30)
 
+
+
+
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
 * [Microsoft Baseline Security Analyser](https://www.microsoft.com/security/blog/2012/10/22/microsoft-free-security-tools-microsoft-baseline-security-analyzer/)
 * [OpenVas](https://www.openvas.org/)
 * [Nessus Essentials - Free version, formally Home Edition](https://www.tenable.com/products/nessus/nessus-essentials)
+
+# Privacy
+
+## Meta Search Engines
+
+Cookies must be disabled for these to offer anonimity
+
+* [Start Page](https://www.startpage.com/)
+* [DuckDuckGo](https://duckduckgo.com/)
+* [Disconnect Search](https://search.disconnect.me/)
+* [YaCy- Locally installed Search Engine using P2P distributed search](https://yacy.net/)
 
 # Isolation Strategies
 ## Portable Applications
