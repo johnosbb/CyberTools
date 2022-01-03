@@ -132,7 +132,7 @@ Cookies must be disabled for these to offer anonimity
 * [YaCy- Locally installed Search Engine using P2P distributed search](https://yacy.net/)
 
 ## Google Activity
-* [Google History](https://myactivity.google.com/)
+* [Google History and Activity Management](https://myactivity.google.com/)
 
 # Isolation Strategies
 ## Portable Applications
