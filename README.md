@@ -134,6 +134,11 @@ Cookies must be disabled for these to offer anonimity
 ## Google Activity
 * [Google History and Activity Management](https://myactivity.google.com/)
 
+### Secure Browsers
+* [Comodo](www.comodo.com/home/browsers-toolbars/browser.php)
+* [Thor](https://www.torproject.org/download/)
+
+
 # Isolation Strategies
 ## Portable Applications
 * [Portable Apps](https://portableapps.com/)  and [Pendrive Apps](https://pendriveapps.com/)
