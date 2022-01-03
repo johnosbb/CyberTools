@@ -131,6 +131,9 @@ Cookies must be disabled for these to offer anonimity
 * [Disconnect Search](https://search.disconnect.me/)
 * [YaCy- Locally installed Search Engine using P2P distributed search](https://yacy.net/)
 
+## Google Activity
+* [Google History](https://myactivity.google.com/)
+
 # Isolation Strategies
 ## Portable Applications
 * [Portable Apps](https://portableapps.com/)  and [Pendrive Apps](https://pendriveapps.com/)
