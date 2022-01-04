@@ -110,6 +110,7 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 
 ##### Browser Integrity Checking
 * [Panoptoclick](https://www.eff.org/deeplinks/2017/11/panopticlick-30)
+* [Quick Java](https://github.com/maximelebreton/quick-javascript-switcher)
 
 
 
