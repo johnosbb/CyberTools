@@ -140,6 +140,7 @@ Cookies must be disabled for these to offer anonimity
 * [Thor](https://www.torproject.org/download/)
 
 ### Add Blockers and Anti Tracking
+* [Ublock Origin](https://ublockorigin.com/)
 * [Privacy Badger fro EFF](https://privacybadger.org/)
 
 
