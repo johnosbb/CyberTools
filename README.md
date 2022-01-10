@@ -139,6 +139,9 @@ Cookies must be disabled for these to offer anonimity
 * [Comodo](www.comodo.com/home/browsers-toolbars/browser.php)
 * [Thor](https://www.torproject.org/download/)
 
+### Add Blockers and Anti Tracking
+* [Privacy Badger fro EFF](https://privacybadger.org/)
+
 
 # Isolation Strategies
 ## Portable Applications
