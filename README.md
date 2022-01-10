@@ -329,7 +329,7 @@ pause
 ```yaml
 Host LinuxBox_191
     HostName 192.168.1.121
-    User `yourusername
+    User yourusername
 
 
 Host RaspberryPI
