@@ -142,6 +142,7 @@ Cookies must be disabled for these to offer anonimity
 ### Add Blockers and Anti Tracking
 * [Ublock Origin](https://ublockorigin.com/)
 * [Privacy Badger fro EFF](https://privacybadger.org/)
+* [Policeman](https://github.com/futpib/policeman)
 
 
 # Isolation Strategies
