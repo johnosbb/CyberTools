@@ -116,6 +116,7 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 ##### Cleaners
 
 * [BleachIt](https://www.bleachbit.org/)
+* [Checking for resistant to Evercookies or Super Cookies](https://samy.pl/evercookie/)
 
 ## Anti Malware Tools and Encryption
 * [McAfee Free Tools](https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html)
