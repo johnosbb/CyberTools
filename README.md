@@ -344,4 +344,16 @@ Host RaspberryPI
 
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
+
+
+# Deep Fakes
+
+## AI librarys for Deep Fake Images
+### Open Source
+* [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
+* [Face Swap](https://faceswap.dev/download/)
+
+## Commercial
+* [Synthesia](https://www.synthesia.io/)
+
 * 
