@@ -348,7 +348,7 @@ Host RaspberryPI
 
 # Deep Fakes
 
-## AI librarys for Deep Fake Images
+## AI librarys for Deep Fake Images and Video
 ### Open Source
 * [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
 * [Face Swap](https://faceswap.dev/download/)
