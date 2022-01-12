@@ -147,6 +147,10 @@ Cookies must be disabled for these to offer anonimity
 * [Privacy Badger fro EFF](https://privacybadger.org/)
 * [Policeman](https://github.com/futpib/policeman)
 
+### Finger Printing
+* [Random User Agent](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp?hl=en)
+* [iPleak exposure detection](https://ipleak.net/)
+
 
 # Isolation Strategies
 ## Portable Applications
