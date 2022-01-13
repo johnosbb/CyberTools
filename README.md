@@ -150,6 +150,7 @@ Cookies must be disabled for these to offer anonimity
 ### Finger Printing
 * [Random User Agent](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp?hl=en)
 * [iPleak exposure detection](https://ipleak.net/)
+* [BrowserLeaks](https://browserleaks.com/) [See also - CanvasBlocker}(https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
 
 # Isolation Strategies
