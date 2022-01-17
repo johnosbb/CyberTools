@@ -153,6 +153,9 @@ Cookies must be disabled for these to offer anonimity
 * [BrowserLeaks](https://browserleaks.com/) [See also - CanvasBlocker}(https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
 
+### Certificate Management and Integrity
+* [RCC Route Certificate Scanner](https://www.softpedia.com/get/Security/Security-Related/RCC.shtml)
+
 # Isolation Strategies
 ## Portable Applications
 * [Portable Apps](https://portableapps.com/)  and [Pendrive Apps](https://pendriveapps.com/)
