@@ -113,6 +113,9 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 * [Quick Java](https://github.com/maximelebreton/quick-javascript-switcher)
 
 
+##### Browser Hardening
+* [Firefox user.js](https://github.com/pyllyukko/user.js/)
+
 ##### Cleaners
 
 * [BleachIt](https://www.bleachbit.org/)
