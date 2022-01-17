@@ -292,6 +292,9 @@ The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammer
      * It features an exploits database: [https://exploits.shodan.io/welcome](https://exploits.shodan.io/welcome)
      * We can search for an IP address using https://www.shodan.io/host/ followed by the ip address
 
+# Security Frameworks
+* [Wazuh](https://wazuh.com/)
+
 # SSH
 * For Putty - ssh-keygen - generate public keys in a folder of your choosing
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
