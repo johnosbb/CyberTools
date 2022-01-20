@@ -364,6 +364,9 @@ Host RaspberryPI
 * [Chocolatey](https://github.com/chocolatey)
 
 
+## Hashing
+[Hash Generator](http://www.sha1-online.com/)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
