@@ -365,7 +365,8 @@ Host RaspberryPI
 
 
 ## Hashing
-[Hash Generator](http://www.sha1-online.com/)
+* [Hash Generator](http://www.sha1-online.com/)
+* [PBKDF2 - Password-Based Key Derivation Function, key derivation functions with a sliding computational cost, used to reduce vulnerabilities of brute-force attacks.](https://en.wikipedia.org/wiki/PBKDF2)
 
 # Deep Fakes
 
