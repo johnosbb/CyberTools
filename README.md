@@ -368,6 +368,14 @@ Host RaspberryPI
 * [Hash Generator](http://www.sha1-online.com/)
 * [PBKDF2 - Password-Based Key Derivation Function, key derivation functions with a sliding computational cost, used to reduce vulnerabilities of brute-force attacks.](https://en.wikipedia.org/wiki/PBKDF2)
 
+A useful strategy for creating a hash that is resistant to brute force attacks is to use a salt, the us a derivation function to stretch and then finally encrypt with AES and a master password. A further extension of this method is to use a hardware security moduleto store the master password [HSM](https://en.wikipedia.org/wiki/Hardware_security_module)
+
+It is also possible to additionally embed a key in the hash before encrypting.
+
+## Password Cracking
+
+* [PWDump7](https://jpcertcc.github.io/ToolAnalysisResultSheet/details/PwDump7.htm) [Youtube video](https://www.youtube.com/watch?v=A9ZNL3qtqAE)[Here also](https://www.youtube.com/watch?v=K-96JmC2AkE)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
