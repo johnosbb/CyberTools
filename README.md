@@ -363,10 +363,12 @@ Host RaspberryPI
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
 
+# Hasing and Passwords
 
 ## Hashing
 * [Hash Generator](http://www.sha1-online.com/)
 * [PBKDF2 - Password-Based Key Derivation Function, key derivation functions with a sliding computational cost, used to reduce vulnerabilities of brute-force attacks.](https://en.wikipedia.org/wiki/PBKDF2)
+* [HashCat](https://hashcat.net/hashcat/)
 
 A useful strategy for creating a hash that is resistant to brute force attacks is to use a salt, the us a derivation function to stretch and then finally encrypt with AES and a master password. A further extension of this method is to use a hardware security moduleto store the master password [HSM](https://en.wikipedia.org/wiki/Hardware_security_module)
 
