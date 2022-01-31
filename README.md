@@ -129,13 +129,6 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 
 
 
-# Password Management
-
-## Password Managers
-* [Master Password - Stateless Password Generator, no password storage, smallest attack surface](https://js.masterpassword.app/)
-* [Keypass - Local Password Storage](https://keepass.info/)
-* [Keypass XC](https://keepassxc.org/)
-* [LastPass - Cloud Based, largest attack surface](https://www.lastpass.com/)
 
 # Privacy
 
@@ -373,7 +366,14 @@ Host RaspberryPI
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
 
-# Hasing and Passwords
+
+# Password Management
+
+## Password Managers
+* [Master Password - Stateless Password Generator, no password storage, smallest attack surface](https://js.masterpassword.app/)
+* [Keypass - Local Password Storage](https://keepass.info/)
+* [Keypass XC](https://keepassxc.org/)
+* [LastPass - Cloud Based, largest attack surface](https://www.lastpass.com/)
 
 ## Hashing
 * [Hash Generator](http://www.sha1-online.com/)
@@ -387,6 +387,10 @@ It is also possible to additionally embed a key in the hash before encrypting.
 ## Password Cracking
 
 * [PWDump7](https://jpcertcc.github.io/ToolAnalysisResultSheet/details/PwDump7.htm) [Youtube video](https://www.youtube.com/watch?v=A9ZNL3qtqAE)[Here also](https://www.youtube.com/watch?v=K-96JmC2AkE)
+
+## Password Evaluation
+
+* [Password Haystacks](https://www.grc.com/haystack.htm)
 
 # Deep Fakes
 
