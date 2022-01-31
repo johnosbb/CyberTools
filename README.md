@@ -127,6 +127,16 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 * [OpenVas](https://www.openvas.org/)
 * [Nessus Essentials - Free version, formally Home Edition](https://www.tenable.com/products/nessus/nessus-essentials)
 
+
+
+# Password Management
+
+## Password Managers
+* [Master Password - Stateless Password Generator, no password storage, smallest attack surface](https://js.masterpassword.app/)
+* [Keypass - Local Password Storage](https://keepass.info/)
+* [Keypass XC](https://keepassxc.org/)
+* [LastPass - Cloud Based, largest attack surface](https://www.lastpass.com/)
+
 # Privacy
 
 ## Meta Search Engines
