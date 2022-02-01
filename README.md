@@ -363,6 +363,17 @@ Host RaspberryPI
 * [Implementation in Nodejs](https://github.com/danba340/oauth-github-example) -- [Video Demo](https://www.youtube.com/watch?v=PdFdd4N6LtI)
 * [oAuth and dropbox] (https://docs.runmyprocess.com/Integration_Guide/OAuth2/Dropbox/)
 
+
+# Two Factor Authentication
+
+## OTP - Soft Tokens
+* [authy](https://authy.com/)
+* [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_IE&gl=US)
+
+## Hard Tokens
+* [yubico](https://www.yubico.com/products/?utm_source=google&utm_medium=pd:search&utm_campaign=EU_Multiple_B2C_LeadGen_Google_SEM_Brand&utm_content=&gclid=EAIaIQobChMI1rasr7Pf9QIVEoxoCR0ydw0_EAAYASAAEgKH8fD_BwE)
+
+
 # Windows Package Managers
 * [Chocolatey](https://github.com/chocolatey)
 
