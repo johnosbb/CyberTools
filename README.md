@@ -413,4 +413,72 @@ It is also possible to additionally embed a key in the hash before encrypting.
 ## Commercial
 * [Synthesia](https://www.synthesia.io/)
 
-* 
+## Fact Checking Organisations
+
+* APF Fact Check—factcheck.afp.com
+* AP Fact—apnews.com/APFactCheck
+* BBC Reality Check—bbc.co.uk/news/reality_check
+* FullFact—fullfact.org
+* Politfact—politifact.com
+* Snopes—snopes.com
+
+
+## Media provenance
+
+* Content Authenticity Initiative (Adobe)—contentauthenticity.org
+* Digimac—digimap.edina.ac.uk
+* News Provenance Project—newsprovenanceproject.com
+* Pressland—pressland.com
+
+## Disinformation detection and protection
+
+* Amped—ampedsoftware.com
+* AI Foundation—aifoundation.com
+* Bellingcat—bellingcat.com
+* DARPA—darpa.mil
+* EUvsDisinfo—euvsdisinfo.eu
+* The Citizen Lab at the University of Toronto—citizenlab.ca
+* DeepTrace—deeptracelabs.com
+* Jigsaw—jigsaw.google.com
+* NewsGuard—newsguardtech.com
+* Truepic—truepic.com
+
+## Social-media analysis
+
+* Botswatch—botswatch.io
+* Dataminr—dataminr.com
+* Graphika—graphika.com
+* Storyful—storyful.com
+
+Best practice (media)
+
+* Duke Reporters’ Lab—reporterslab.org
+* Credibility Coalition—credibilitycoalition.org
+* First Draft News—firstdraftnews.org
+* News Literacy Project—newslit.org
+* News Integrity Initiative, Newmark School of Journalism, The City University of New York—journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/
+* Nieman Lab, Harvard University—niemanlab.org
+* Partnership on AI—partnershiponai.org
+* Reuters Institute—reutersinstitute.politics.ox.ac.uk
+
+## Policy/society
+
+* Access Now—accessnow.org
+* Alliance for Securing Democracy—securingdemocracy.gmfus.org
+* Anti-Defamation League—adl.org
+* Center for Humane Technology—humanetech.com/problem/
+* Center for Media Engagement, Moody College of Communication, University of Texas at Austin—mediaengagement.org/
+* Cyber Policy Center, Stanford University—cyber.fsi.stanford.edu
+* Data and Society, Disinformation Action Lab—datasociety.net/research/disinformation-action-lab/
+* DeepTrust Alliance—deeptrustalliance.org
+* Digital Forensics Research Lab and DisinfoPortal, Atlantic Council—atlanticcouncil.org/programs/digital-forensic-research-lab/
+* Electronic Frontier Foundation—eff.org
+* Information Disorder Lab, Shorenstein Centre, Harvard University—shorensteincenter.org/about-us/areas-of-focus/misinformation/
+* Internet Observatory, Stanford University—cyber.fsi.stanford.edu/io/content/io-landing-page-2
+* OpenAI—openai.com
+* PEN America—pen.org
+* Partnership on AI—partnernshiponai.org
+* The Truthiness Collaboration, Annenberg Innovation Lab, University of Southern California—annenberglab.com
+* Wikimedia—wikimedia.org
+* WITNESS—witness.org
+
