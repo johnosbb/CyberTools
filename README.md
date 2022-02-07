@@ -53,6 +53,7 @@
 * [Windows Hash Extraction Tools - pwdump7](https://www.tarasco.org/security/pwdump_7/)
 * [Hacking Tools Cheat Sheet](https://www.stationx.net/hacking-tools-cheat-sheet/)
 * [Pen Testing Resources](https://pentest-tools.com/)
+* [Email Privacy Tester](https://www.emailprivacytester.com/)
 
 ## Port Scanning Tools
 * [zenmap](https://nmap.org/zenmap/) - Cross platform Port Scanner
