@@ -316,6 +316,10 @@ The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammer
 * [Copying SSH keys from Windows to target device](https://github.com/VijayS1/Scripts/tree/master/ssh-copy-id)
 * OpenSSH, use ssh-keygen to create a public key called id_ras.pub, run the script below to install the key on the target: ssh-copy-id.bat username@192.168.1.10 password id_ras.pub
 
+## Windows Example
+
+Create a script called ssh-copy-id.cmd with the following content
+
 ```bash
 ::usage: ssh-copy-id test@example.com password [id_ras.pub]
 
@@ -345,6 +349,14 @@ echo %id% | plink.exe %user% -pw %pw% "umask 077; test -d .ssh || mkdir .ssh ; c
 :end
 pause
 ```
+
+Example usage
+
+## SSH Configuration on Windows
+
+ssh-copy-id.cmd <target-username>@192.168.1.xxx <password> c:\Users\<windows-username>\.ssh\id_rsa.pub
+
+
 ## SSH Configuration on Ubuntu
 * chmod go-w /home/user
 * chmod 700 /home/user/.ssh
