@@ -430,6 +430,10 @@ It is also possible to additionally embed a key in the hash before encrypting.
 ## Commercial
 * [Synthesia](https://www.synthesia.io/)
 
+     
+## For Audio
+- [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+     
 ## Fact Checking Organisations
 
 * APF Fact Check—factcheck.afp.com
