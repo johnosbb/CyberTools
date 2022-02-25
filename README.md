@@ -433,6 +433,9 @@ It is also possible to additionally embed a key in the hash before encrypting.
      
 ## For Audio
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
+## Audio and Video
+- [Neural Voice Puppetry](https://github.com/keetsky/NeuralVoicePuppetry)     
      
 ## Fact Checking Organisations
 
