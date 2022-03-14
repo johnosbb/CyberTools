@@ -309,6 +309,13 @@ The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammer
 # Security Frameworks
 * [Wazuh](https://wazuh.com/)
 
+# Disk and File Encryption
+
+## File Encryption
+
+- [Peazip](https://peazip.github.io/)
+
+
 # SSH
 * For Putty - ssh-keygen - generate public keys in a folder of your choosing
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
