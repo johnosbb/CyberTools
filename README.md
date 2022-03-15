@@ -314,6 +314,8 @@ The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammer
 ## File Encryption
 
 - [Peazip](https://peazip.github.io/)
+- [AES Crypt](https://www.aescrypt.com/)
+- [GPG](https://gnupg.org/)
 
 
 # SSH
