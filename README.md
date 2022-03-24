@@ -429,6 +429,16 @@ It is also possible to additionally embed a key in the hash before encrypting.
 
 * [Password Haystacks](https://www.grc.com/haystack.htm)
 
+     
+# End Point Protection - Anti Virus
+- FUD, Fully undectable malware that has been obfiscated and encrypted.
+- A lot of cheap or free anti virus products used basic signature analysis which cannot detect FUD based walware.
+- Heuristic detection analyses code for suspicious patterns and structures. Heuristic techniques are used in mid-range products.
+- More advanced products use sandboxes in addition to heuristics.
+- Behaviour based blocking - AV onserves the software in action
+- Cloud based analysis, uses the softwares integrity rating based on cloud assisted analysis of large numbers of users.
+- [Kaspersky White Papers](https://www.kaspersky.com/enterprise-security/resources/white-papers)
+     
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
