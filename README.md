@@ -439,6 +439,10 @@ It is also possible to additionally embed a key in the hash before encrypting.
 - Cloud based analysis, uses the softwares integrity rating based on cloud assisted analysis of large numbers of users.
 - [Kaspersky White Papers](https://www.kaspersky.com/enterprise-security/resources/white-papers)
      
+     
+# Training
+- [PentestingLab](https://www.pentesterlab.com/pro)
+     
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
