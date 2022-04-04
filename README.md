@@ -54,6 +54,7 @@
 * [Hacking Tools Cheat Sheet](https://www.stationx.net/hacking-tools-cheat-sheet/)
 * [Pen Testing Resources](https://pentest-tools.com/)
 * [Email Privacy Tester](https://www.emailprivacytester.com/)
+* [Windows Permissions Identifier](https://www.stationx.net/windows-permission-identifier)
 
 ## Port Scanning Tools
 * [zenmap](https://nmap.org/zenmap/) - Cross platform Port Scanner
