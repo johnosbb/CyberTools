@@ -440,6 +440,11 @@ It is also possible to additionally embed a key in the hash before encrypting.
 - Cloud based analysis, uses the softwares integrity rating based on cloud assisted analysis of large numbers of users.
 - [Kaspersky White Papers](https://www.kaspersky.com/enterprise-security/resources/white-papers)
      
+# Software Restriction Policies
+- On Windows: Local Group Policy Editor: security settings->security restriction policies - run gpedit.msc
+- [White Paper on SRP](https://www.iad.gov/iad/library/reports/application-whitelisting-using-srp.cfm)
+- [Microsoft SRP](https://docs.microsoft.com/en-us/windows-server/identity/software-restriction-policies/software-restriction-policies#:~:text=Software%20Restriction%20Policies%20(SRP)%20is,of%20those%20programs%20to%20run.)
+- [App Locker](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/applocker-overview)
      
 # Training
 - [PentestingLab](https://www.pentesterlab.com/pro)
