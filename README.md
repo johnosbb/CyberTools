@@ -445,6 +445,9 @@ It is also possible to additionally embed a key in the hash before encrypting.
 - [White Paper on SRP](https://www.iad.gov/iad/library/reports/application-whitelisting-using-srp.cfm)
 - [Microsoft SRP](https://docs.microsoft.com/en-us/windows-server/identity/software-restriction-policies/software-restriction-policies#:~:text=Software%20Restriction%20Policies%20(SRP)%20is,of%20those%20programs%20to%20run.)
 - [App Locker](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/applocker-overview)
+- [EMET The Enhanced Mitigation Experience Toolkit (EMET) is a utility that helps prevent vulnerabilities in software from being successfully exploited.](https://support.microsoft.com/en-us/topic/emet-mitigations-guidelines-b529d543-2a81-7b5a-d529-84b30e1ecee0)
+  
+     
      
 # Training
 - [PentestingLab](https://www.pentesterlab.com/pro)
