@@ -449,7 +449,7 @@ It is also possible to additionally embed a key in the hash before encrypting.
   
      
      
-# Training
+# Cyber Security Training
 - [PentestingLab](https://www.pentesterlab.com/pro)
      
 # Deep Fakes
@@ -468,6 +468,12 @@ It is also possible to additionally embed a key in the hash before encrypting.
 
 ## Audio and Video
 - [Neural Voice Puppetry](https://github.com/keetsky/NeuralVoicePuppetry)     
+
+     
+## AI generation
+- [Dall E- Text to Art](https://openai.com/blog/dall-e/)
+     
+     
      
 ## Fact Checking Organisations
 
