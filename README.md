@@ -472,6 +472,13 @@ It is also possible to additionally embed a key in the hash before encrypting.
 # Cyber Security Training
 - [PentestingLab](https://www.pentesterlab.com/pro)
      
+     
+# Deception Strategies
+
+ Detection is key to Cyber Security    
+     
+- [Canary Tokens from StationX](https://www.stationx.net/canarytokens/)
+     
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
