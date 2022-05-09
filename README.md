@@ -478,6 +478,7 @@ It is also possible to additionally embed a key in the hash before encrypting.
  Detection is key to Cyber Security    
      
 - [Canary Tokens from StationX](https://www.stationx.net/canarytokens/)
+- [Open Canary](https://github.com/thinkst/opencanary)
      
 # Deep Fakes
 
