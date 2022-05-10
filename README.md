@@ -477,8 +477,27 @@ It is also possible to additionally embed a key in the hash before encrypting.
 
  Detection is key to Cyber Security    
      
+## Honeypots
+     
 - [Canary Tokens from StationX](https://www.stationx.net/canarytokens/)
 - [Open Canary](https://github.com/thinkst/opencanary)
+- [Artillery Binary Defense](https://github.com/BinaryDefense/artillery)
+- [Honey Drive](https://www.honeynet.org/tag/honeydrive/)
+     
+## Intrusion Detection Systems
+     
+NIDs HIDs Network and Host intrusion detection
+
+- [Snort](https://www.snort.org/)  
+- [Suricata](https://suricata.io/)
+- [OSSEC](https://www.ossec.net/)
+- [OSQuery](https://osquery.io/)
+
+## Intrusion Prevention Systems
+  
+ - WIPS - wireless Intrusion Prevention Systems    
+ - NBAS - Network Behaviour Analysis Systems 
+     
      
 # Deep Fakes
 
