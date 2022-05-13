@@ -486,7 +486,7 @@ It is also possible to additionally embed a key in the hash before encrypting.
      
 ## Intrusion Detection Systems
      
-NIDs HIDs Network and Host intrusion detection
+NIDs HIDs Network and Host intrusion detection. These generally require a lot of setup, configuration and maintenance.
 
 - [Snort](https://www.snort.org/)  
 - [Suricata](https://suricata.io/)
@@ -502,6 +502,33 @@ NIDs HIDs Network and Host intrusion detection
  - WIPS - wireless Intrusion Prevention Systems    
  - NBAS - Network Behaviour Analysis Systems 
      
+
+## Network Threat Analysis Systems - These facilitate the practice of Network Security Monitoring, event driven analysis and foreinsic analysis.      
+  
+- [squil](https://bammv.github.io/sguil/index.html)  
+- [xplico](https://www.xplico.org/)   
+- [Network Miner](https://www.netresec.com/?page=NetworkMiner)
+     
+     
+ ### Proxt Based Analysis
+     
+ - [ MITMProxy - Man in the Moddile Proxy](https://mitmproxy.org/)    
+ - [Burp, Burp Suite](https://portswigger.net/burp)   
+ - [OWASP](https://owasp.org/)    
+
+## File Integrity Monitors
+
+- [OSQuery](https://osquery.io/)    
+- [OSSEC](https://www.ossec.net/)   
+- [ADAudit for Windows](https://www.manageengine.com/products/active-directory-audit/index.html) 
+- [AFick for Linux](http://afick.sourceforge.net/)
+- [AIDE](https://aide.github.io/)
+- [TripWire](https://www.tripwire.com/)     
+     
+     
+ ## Process Monitoring Tools
+ 
+- [Eljefe - The Boss](https://www.immunityinc.com/products/eljefe/)
      
 # Deep Fakes
 
