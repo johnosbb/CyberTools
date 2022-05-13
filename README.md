@@ -494,7 +494,9 @@ NIDs HIDs Network and Host intrusion detection
 - [OSQuery](https://osquery.io/)
 - [Bricata , formerly Bro](https://bricata.com/)     
 - [OpenWIPS-ng](https://openwips-ng.org)     
-
+- [OSSEC](https://www.ossec.net/)
+     
+     
 ## Intrusion Prevention Systems
   
  - WIPS - wireless Intrusion Prevention Systems    
