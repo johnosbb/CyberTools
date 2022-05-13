@@ -493,6 +493,7 @@ NIDs HIDs Network and Host intrusion detection
 - [OSSEC](https://www.ossec.net/)
 - [OSQuery](https://osquery.io/)
 - [Bricata , formerly Bro](https://bricata.com/)     
+- [OpenWIPS-ng](https://openwips-ng.org)     
 
 ## Intrusion Prevention Systems
   
