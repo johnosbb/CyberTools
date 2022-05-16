@@ -530,6 +530,16 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
  ## Process Monitoring Tools
  
 - [Eljefe - The Boss](https://www.immunityinc.com/products/eljefe/)
+
+     
+## Network Monitor Tools
+
+- [NST - Network Security Toolkit](https://www.networksecuritytoolkit.org/nst/index.html)
+- [Security Onion](https://github.com/Security-Onion-Solutions/security-onion)     
+ 
+## SIEM - Security information and event management 
+
+- [OSSIM](https://en.wikipedia.org/wiki/OSSIM)
      
 # Deep Fakes
 
