@@ -540,6 +540,11 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 ## SIEM - Security information and event management 
 
 - [OSSIM](https://en.wikipedia.org/wiki/OSSIM)
+
+# Malware and Virus Removal Tools     
+
+- [farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/)
+     
      
 # Deep Fakes
 
