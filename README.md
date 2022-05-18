@@ -546,6 +546,10 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 - [farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/)
      
      
+     
+# Pentesting
+     
+- [Metasploit Analysis and Disruption](https://blog.nviso.eu/2021/09/02/anatomy-and-disruption-of-metasploit-shellcode/#Execution-Flow-Analysis)     
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
