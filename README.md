@@ -511,7 +511,7 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 - [Network Miner](https://www.netresec.com/?page=NetworkMiner)
      
      
- ### Proxt Based Analysis
+ ### Proxy Based Analysis
      
  - [ MITMProxy - Man in the Moddile Proxy](https://mitmproxy.org/)    
  - [Burp, Burp Suite](https://portswigger.net/burp)   
@@ -544,8 +544,13 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 # Malware and Virus Removal Tools     
 
 - [farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/)
+- [Malware Bytes](https://www.malwarebytes.com/solutions/free-antivirus)
+- [Hitman Pro](https://www.hitmanpro.com/en-us)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)     
      
-     
+# Live CDs
+  
+- [gandalfs-windows-7](http://windowsmatters.com/2015/01/10/gandalfs-windows-7-pe-x86/)
      
 # Pentesting
      
