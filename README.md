@@ -570,7 +570,12 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
  ## Sys Internals
      
  - [Sys Internals](https://docs.microsoft.com/en-us/sysinternals/)    
- - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - run as administrator, you can replace taskmanager with PE    
+ - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+     - Run as administrator, you can replace taskmanager with PE    
+     - Does the process have a verified signature?
+     - What is its Virus Total score?
+     - Does it have an icon?
+     - Has the file been packed or encrypted?
      
 # Pentesting
      
