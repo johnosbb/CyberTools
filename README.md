@@ -551,6 +551,26 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 # Live CDs
   
 - [gandalfs-windows-7](http://windowsmatters.com/2015/01/10/gandalfs-windows-7-pe-x86/)
+- [unetbootin](https://unetbootin.github.io/)
+- [Pen Drive Linux](https://www.pendrivelinux.com/) 
+
+## Sysadmin CDs
+     
+- [Hiren's Boot CD](https://www.hirensbootcd.org/)
+- [Falcon Four](http://falconfour.com/category/bootcd/) 
+- [System Rescue CD](https://www.system-rescue.org/)
+- [Trinity Rescue](https://trinityhome.org/)
+    
+- [Malware Removal Live Boot](https://www.kaspersky.com/downloads/free-rescue-disk)     
+   
+## Tool Kits for Malware Analysis
+ 
+- [Remnux](https://remnux.org/)     
+ 
+ ## Sys Internals
+     
+ - [Sys Internals](https://docs.microsoft.com/en-us/sysinternals/)    
+ - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - run as administrator, you can replace taskmanager with PE    
      
 # Pentesting
      
