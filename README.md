@@ -555,6 +555,12 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 # Pentesting
      
 - [Metasploit Analysis and Disruption](https://blog.nviso.eu/2021/09/02/anatomy-and-disruption-of-metasploit-shellcode/#Execution-Flow-Analysis)     
+     
+     
+# Linux Utilities and Commands
+
+- Idenify Machine Type: hostnamectl     
+     
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
