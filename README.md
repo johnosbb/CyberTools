@@ -576,7 +576,8 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
      - What is its Virus Total score?
      - Does it have an icon?
      - Has the file been packed or encrypted?
-     
+ - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)   
+     - Shows you what programs are configured to run during system bootup or login, and when you start various built-in Windows applications.
      
 ## Other Tools
      
