@@ -577,6 +577,14 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
      - Does it have an icon?
      - Has the file been packed or encrypted?
      
+     
+## Other Tools
+     
+- [ShimCache-Parser](https://security.opentext.com/appDetails/ShimCache-Parser)     
+- [Process Hacker](https://processhacker.sourceforge.io/)
+- [UserAssist](https://www.nirsoft.net/utils/userassist_view.html)
+- [Sigcheck - Sigcheck is a command-line utility that shows file version number, timestamp information, and digital signature details, including certificate chains.](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)     
+     
 # Pentesting
      
 - [Metasploit Analysis and Disruption](https://blog.nviso.eu/2021/09/02/anatomy-and-disruption-of-metasploit-shellcode/#Execution-Flow-Analysis)     
