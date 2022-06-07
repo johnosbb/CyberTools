@@ -576,6 +576,13 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
      - What is its Virus Total score?
      - Does it have an icon?
      - Has the file been packed or encrypted?
+ - [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) 
+     - Run as Adminsitrator
+     - Logs all process activity
+     - It has five different types of monitor, Reg Mon for registry events, file mon for file related events, Net Mon for Networking related events,Process Mon for Process and Thread creation, deletion, Profile Mon, or Thread Stack Snapshots.
+     - It supports extensive filtering options, filters can be saved and reloaded.
+     - We can move the target symbol to a particular window to ispect that process.
+     
  - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)   
      - Shows you what programs are configured to run during system bootup or login, and when you start various built-in Windows applications.
      
