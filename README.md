@@ -535,8 +535,15 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 ## Network Monitor Tools
 
 - [NST - Network Security Toolkit](https://www.networksecuritytoolkit.org/nst/index.html)
-- [Security Onion](https://github.com/Security-Onion-Solutions/security-onion)     
- 
+- [Security Onion](https://github.com/Security-Onion-Solutions/security-onion)   
+- [Netstat on Windows](https://www.windowscentral.com/how-use-netstat-command-windows-10)
+     - netstat -ao , shows all activity and owners
+     - netstat -aon, show ipaddress and port number
+     - netstat -ob, show realnames and owners
+ - [Tcpview from Sys Internals](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview) 
+ - [Unhide](http://manpages.ubuntu.com/manpages/bionic/man8/unhide-tcp.8.html)    
+ - [Networx, Bandwidth and Network Monitoring](https://networx.en.softonic.com/)
+     
 ## SIEM - Security information and event management 
 
 - [OSSIM](https://en.wikipedia.org/wiki/OSSIM)
@@ -585,7 +592,7 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
      
  - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)   
      - Shows you what programs are configured to run during system bootup or login, and when you start various built-in Windows applications.
-     
+ - [Tcpview from Sys Internals, similar to netview with GUI](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)     
 ## Other Tools
      
 - [ShimCache-Parser](https://security.opentext.com/appDetails/ShimCache-Parser)     
