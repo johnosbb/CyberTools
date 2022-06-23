@@ -38,6 +38,9 @@
 * [To report Cyber Crime in the UK](https://www.actionfraud.police.uk/)
 * [Latest information on emerging scams](https://scambusters.org/)
 
+
+![image](https://user-images.githubusercontent.com/12407183/175249244-604e2068-7b55-4d03-bb62-6262db9c7d8c.png)
+
 # Identity Theft
 * [What To Know About Credit Freezes and Fraud Alerts](https://www.consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts)
 
