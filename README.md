@@ -107,7 +107,7 @@ Ideally we need to run Wireshark on the Router. TCPDump is available on alot of 
 #### Other Tools
 * [Network Security Toolkit](https://www.networksecuritytoolkit.org/nst/index.html)
 * [Network Miner](https://www.netresec.com/)
-* [NetWorx](https://networx.en.lo4d.com/windows)
+* [NetWorx](https://networx.en.lo4d.com/windows) - includes a GUI version of Netstat and background monitoring
 
 ##### Burp Suite
 * [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
@@ -532,8 +532,11 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
      
  ## Process Monitoring Tools
  
+### Windows
 - [Eljefe - The Boss](https://www.immunityinc.com/products/eljefe/)
 
+### Linux
+- [SysDig](https://github.com/draios/sysdig)
      
 ## Network Monitor Tools
 
