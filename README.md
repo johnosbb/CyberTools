@@ -614,7 +614,21 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 # Linux Utilities and Commands
 
 - Idenify Machine Type: hostnamectl     
-     
+- [Debsums](https://manpages.ubuntu.com/manpages/trusty/man1/debsums.1.html)
+
+
+  debsums  is  intended  primarily  as  a  way of determining what installed files have been
+  locally modified by the administrator or damaged by media errors and is of limited use  as
+  a security tool.
+
+  If  you  are  looking  for an integrity checker that can run from safe media, do integrity
+  checks on checksum databases and can be easily configured to run periodically to warn  the
+  admin of changes see other tools such as: aide, integrit, samhain, or tripwire.
+ 
+ - [Unhide](https://linux.die.net/man/8/unhide#:~:text=unhide%20is%20a%20forensic%20tool,output%20of%20%2Fbin%2Fps.)
+ 
+ Unhide is a forensic tool to find hidden processes
+ 
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
