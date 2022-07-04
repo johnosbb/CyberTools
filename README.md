@@ -629,6 +629,12 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
  
  Unhide is a forensic tool to find hidden processes
  
+## Root Kit Analysis For Linux
+
+- [RKHunter](http://rkhunter.sourceforge.net/)
+- [chkrootkit](http://www.chkrootkit.org/)     
+- [volatility](https://www.volatilityfoundation.org/)     
+     
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
