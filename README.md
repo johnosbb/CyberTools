@@ -641,6 +641,7 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 ## OSQuery
 
 - [OSQuery](https://osquery.io/downloads/official/5.3.0)
+- [Grr - GRR Rapid Response is an incident response framework focused on remote live forensics](https://github.com/google/grr)
 
 # Deep Fakes
 
