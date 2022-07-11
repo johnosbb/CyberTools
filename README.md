@@ -634,7 +634,14 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 - [RKHunter](http://rkhunter.sourceforge.net/)
 - [chkrootkit](http://www.chkrootkit.org/)     
 - [volatility](https://www.volatilityfoundation.org/)     
-     
+  
+  
+# Cross Platform System Analysis Tools
+
+## OSQuery
+
+- [OSQuery](https://osquery.io/downloads/official/5.3.0)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
