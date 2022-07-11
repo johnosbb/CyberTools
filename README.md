@@ -628,7 +628,11 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
  - [Unhide](https://linux.die.net/man/8/unhide#:~:text=unhide%20is%20a%20forensic%20tool,output%20of%20%2Fbin%2Fps.)
  
  Unhide is a forensic tool to find hidden processes
- 
+
+# Root Kits
+- [IRATEMONK](https://nsa.gov1.info/dni/nsa-ant-catalog/computers/index.html#:~:text=IRATEMONK%20provides%20software%20application%20persistence,Boot%20Record%20(MBR)%20substitution.)     
+- [UEFI Firmware Root Kits](https://www.blackhat.com/docs/asia-17/materials/asia-17-Matrosov-The-UEFI-Firmware-Rootkits-Myths-And-Reality.pdf)     
+     
 ## Root Kit Analysis For Linux
 
 - [RKHunter](http://rkhunter.sourceforge.net/)
