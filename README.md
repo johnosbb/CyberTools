@@ -647,6 +647,25 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 - [OSQuery](https://osquery.io/downloads/official/5.3.0)
 - [Grr - GRR Rapid Response is an incident response framework focused on remote live forensics](https://github.com/google/grr)
 
+
+# System Recovery
+
+## Rollback and Cloning
+- [Rollback-rx](https://horizondatasys.com/rollback-rx-time-machine/rollback-rx-home/)
+- [Macrium Reflect Free](https://www.macrium.com/reflectfree)
+- [Terabyte Image Unlimited](https://www.terabyteunlimited.com/image-for-windows/)
+- [CloneZilla]https://clonezilla.org/()
+
+## Backup
+-[Owncloud](https://owncloud.com/)
+-[Turnkey Linux ](https://www.turnkeylinux.org/)
+-[Digital Ocean](https://www.digitalocean.com/)
+
+SparkleShare creates a special folder on your computer. You can add remotely hosted folders (or "projects") to this folder. These projects will be automatically kept in sync with both the host and all of your peers when someone adds, removes or edits a file.
+-[Sparkle Share](https://www.sparkleshare.org/)
+
+
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
