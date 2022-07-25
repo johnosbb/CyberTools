@@ -664,7 +664,9 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 SparkleShare creates a special folder on your computer. You can add remotely hosted folders (or "projects") to this folder. These projects will be automatically kept in sync with both the host and all of your peers when someone adds, removes or edits a file.
 -[Sparkle Share](https://www.sparkleshare.org/)
 
+# Hardening
 
+- [OpenScap](https://www.open-scap.org/)
 
 # Deep Fakes
 
