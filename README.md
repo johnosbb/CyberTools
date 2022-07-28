@@ -667,6 +667,8 @@ SparkleShare creates a special folder on your computer. You can add remotely hos
 # Hardening
 
 - [OpenScap](https://www.open-scap.org/)
+- [To help ease the management process for Group Policy, Microsoft released a free tool called the Microsoft Security Compliance Manager (SCM)](https://www.microsoft.com/security/blog/2013/01/15/microsofts-free-security-tools-microsoft-security-compliance-manager-tool-scm/#:~:text=To%20help%20ease%20the%20management,server%20operating%20systems%20and%20applications.) 
+- [Microsoft’s Local Group Policy Object (LGPO) Utility is a standalone command-line executable that assists administrators in automating the management of a computer’s local security policy. The tool uses a combination of Group Policy Template (GptTmpl.inf) files, Registry Policy (registry.pol) files, and Audit Policy (audit.csv) files to apply desired configuration settings to endpoints](https://www.microsoft.com/en-us/download/details.aspx?id=55319)
 
 # Deep Fakes
 
