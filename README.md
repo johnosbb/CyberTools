@@ -679,7 +679,19 @@ SparkleShare creates a special folder on your computer. You can add remotely hos
 
 ## Solid State Drives
 
-- []()
+Data on SDDs depends on wether the TRIM command is used in the interface to the drive when erasing. Wear-leveling also means some blocks are not erased and data is constantly moved. It may leave a block and simply mark it as invalid. SSDs also have hidden spare capacity (possibly 10%). This spare area may hold user data and this data is not visible to the operating system. Use disk encryption to be certain on SSDs.
+
+## Avoiding Data Trails
+
+- Use live operating systems
+- Use portable media for storage
+- Avoid rather than try to destroy afterwards
+- Use encryption
+
+## Evidence Elimination Tools
+
+-[bleachbit - includes drive wiping](https://www.bleachbit.org/)
+-[WinApp2 - adds signatures to other tools](https://github.com/MoscaDotTo/Winapp2) 
 
 
 
