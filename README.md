@@ -695,6 +695,10 @@ Data on SDDs depends on wether the TRIM command is used in the interface to the 
 -[bleachbit - includes drive wiping](https://www.bleachbit.org/)
 -[WinApp2 - adds signatures to other tools](https://github.com/MoscaDotTo/Winapp2) 
 
+## Disk Wiping Tools
+
+-[dban](https://dban.org/)
+-[Parted Tools](https://www.gnu.org/software/parted/)
 
 
 # Deep Fakes
