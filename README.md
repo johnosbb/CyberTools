@@ -499,7 +499,9 @@ NIDs HIDs Network and Host intrusion detection. These generally require a lot of
 - [Bricata , formerly Bro](https://bricata.com/)     
 - [OpenWIPS-ng](https://openwips-ng.org)     
 - [OSSEC](https://www.ossec.net/)
-     
+- [Samhain](https://www.la-samhna.de/samhain/)
+- [heat attacks](https://www.helpnetsecurity.com/2022/03/22/web-security-threats/)
+   
      
 ## Intrusion Prevention Systems
   
