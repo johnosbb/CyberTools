@@ -717,7 +717,7 @@ Data on SDDs depends on wether the TRIM command is used in the interface to the 
      
 ## AI generation
 - [Dall E- Text to Art](https://openai.com/blog/dall-e/)
-     
+- [Google Imagen -Pytorch](https://github.com/lucidrains/imagen-pytorch)    
      
      
 ## Fact Checking Organisations
