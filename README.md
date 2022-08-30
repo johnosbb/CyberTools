@@ -700,6 +700,11 @@ Data on SDDs depends on wether the TRIM command is used in the interface to the 
 -[dban](https://dban.org/)
 -[Parted Tools](https://www.gnu.org/software/parted/)
 
+## Removing EXIF and Metadata
+
+Many types of files contain metadata, authors, GPS co-ordinates, revision history, comment etc. You can view this metadata by viewing properties and details in windows. EXIF is found in images and video files.
+
+
 
 # Deep Fakes
 
