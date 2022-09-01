@@ -704,6 +704,12 @@ Data on SDDs depends on wether the TRIM command is used in the interface to the 
 
 Many types of files contain metadata, authors, GPS co-ordinates, revision history, comment etc. You can view this metadata by viewing properties and details in windows. EXIF is found in images and video files.
 
+### Meta Data Removal
+- [exiftool](https://exiftool.org/)
+- [Hidden-Data-Detecto](https://www.digitalconfidence.com/Hidden-Data-Detector.html)
+- [Purify](https://www.digitalconfidence.com/BPL-Using.html)
+- [PDF Paranoia](https://pypi.org/project/pdfparanoia/)
+- [MAT](https://github.com/jubalh/MAT)
 
 
 # Deep Fakes
