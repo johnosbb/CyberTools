@@ -712,6 +712,14 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 - [MAT](https://github.com/jubalh/MAT)
 
 
+### Camera Noise Identification and Camera Finger Printing
+
+-[Obscuracam](https://guardianproject.info/apps/org.witness.sscphase1/)
+     
+     
+# Email Security
+     
+     
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
