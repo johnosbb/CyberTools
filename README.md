@@ -718,8 +718,11 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
      
      
 # Email Security
-     
-     
+
+- [Parsemail](parsemail.org)
+- [GPGP](https://www.gnupg.org/)
+- [Enigmail](https://www.enigmail.net/index.php/en/)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
