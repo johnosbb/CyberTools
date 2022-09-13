@@ -722,6 +722,8 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 - [Parsemail](parsemail.org)
 - [GPGP](https://www.gnupg.org/)
 - [Enigmail](https://www.enigmail.net/index.php/en/)
+- [Email Privacy Tester](https://www.emailprivacytester.com/)     
+
 
 # Deep Fakes
 
