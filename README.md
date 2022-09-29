@@ -324,6 +324,8 @@ The best adapters can be found on [Cyberprogrammers](https://www.cyberprogrammer
 
 
 # SSH
+
+
 * For Putty - ssh-keygen - generate public keys in a folder of your choosing
 * Linux: ssh-copy-id -i /home/${USER}/.ssh/id_rsa.pub  <remote_user_name>@<remote_ip_address>
 * [Generating SSH key-pairs on Windows](https://www.ibm.com/docs/en/flashsystem-9x00/8.3.x?topic=host-generating-ssh-key-pair-using-putty)
@@ -366,9 +368,20 @@ pause
 
 Example usage
 
-## SSH Configuration on Windows
+## SSH Configuration on Windows instance of VSCode connecting to Linux Target
 
+Copy the keys from windows to linux
+
+```sh
+ssh-copy-id.cmd <linux_username>@192.168.1.xx <linux_user_password> id_rsa.pub
+```
+This will put the relevent keys in ~/.ssh/authorized_keys on the Linux target
+
+## Windows connecting to Windows target
+
+```sh
 ssh-copy-id.cmd <target-username>@192.168.1.xxx <password> c:\Users\<windows-username>\.ssh\id_rsa.pub
+```
 
 
 ## SSH Configuration on Ubuntu
