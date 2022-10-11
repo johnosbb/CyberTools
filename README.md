@@ -738,6 +738,14 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 - [Email Privacy Tester](https://www.emailprivacytester.com/)     
 
 
+# Anonimity
+
+- [Fake Name and Fake Persona](https://www.fakenamegenerator.com/)
+- [DEF CON 23 - Chris Rock](https://www.youtube.com/watch?v=9FdHq3WfJgs)
+- [disappear](https://www.pandasecurity.com/en/mediacenter/mobile-news/disappear-internet/)
+- [Stylometic Analysis](https://www.philocomp.net/texts/signature.htm)
+- [JStylo](https://github.com/psal/jstylo)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
