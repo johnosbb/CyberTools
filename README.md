@@ -745,6 +745,8 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 - [disappear](https://www.pandasecurity.com/en/mediacenter/mobile-news/disappear-internet/)
 - [Stylometic Analysis](https://www.philocomp.net/texts/signature.htm)
 - [JStylo](https://github.com/psal/jstylo)
+- [Poly Graph](http://resistir.info/livros/the_lie_behind_the_lie_detector.pdf)
+- [anti poly graph](https://antipolygraph.org/)
 
 # Deep Fakes
 
