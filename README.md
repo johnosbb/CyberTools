@@ -748,6 +748,10 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 - [Poly Graph](http://resistir.info/livros/the_lie_behind_the_lie_detector.pdf)
 - [anti poly graph](https://antipolygraph.org/)
 
+## Live CDs
+
+- [List of Live CD Distributions](https://sourceforge.net/directory/os:windows/?q=jondo+live+dvd)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
