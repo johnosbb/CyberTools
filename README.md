@@ -757,6 +757,9 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 
 - [Smart DNS Proxy - for undetectable video stream avoid geo-location constraints](https://www.smartdnsproxy.com/)
 - [unlocator - for undetectable video stream avoid geo-location constraints ](https://unlocator.com/)
+- [Warrant Canaries](https://en.wikipedia.org/wiki/Warrant_canary)
+
+
 
 # Deep Fakes
 
