@@ -752,6 +752,12 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 
 - [List of Live CD Distributions](https://sourceforge.net/directory/os:windows/?q=jondo+live+dvd)
 
+
+## VPNS
+
+- [Smart DNS Proxy - for undetectable video stream avoid geo-location constraints](https://www.smartdnsproxy.com/)
+- [unlocator - for undetectable video stream avoid geo-location constraints ](https://unlocator.com/)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
