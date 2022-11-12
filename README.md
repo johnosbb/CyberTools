@@ -758,7 +758,8 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 - [Smart DNS Proxy - for undetectable video stream avoid geo-location constraints](https://www.smartdnsproxy.com/)
 - [unlocator - for undetectable video stream avoid geo-location constraints ](https://unlocator.com/)
 - [Warrant Canaries](https://en.wikipedia.org/wiki/Warrant_canary)
-
+- [DNS Spoofing](https://null-byte.wonderhowto.com/how-to/hack-like-pro-spoof-dns-lan-redirect-traffic-your-fake-website-0151620/)
+- [Cyber Weapons Lab](https://null-byte.wonderhowto.com/collection/cyber-weapons-lab/)
 
 
 # Deep Fakes
