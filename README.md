@@ -153,6 +153,7 @@ Cookies must be disabled for these to offer anonimity
 ### Secure Browsers
 * [Comodo](www.comodo.com/home/browsers-toolbars/browser.php)
 * [Thor](https://www.torproject.org/download/)
+* [How to veryify Thor signature](https://www.youtube.com/watch?v=-v4sRjk2rpw)
 
 ### Add Blockers and Anti Tracking
 * [Ublock Origin](https://ublockorigin.com/)
