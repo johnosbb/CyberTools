@@ -157,6 +157,7 @@ Cookies must be disabled for these to offer anonimity
 * [Tor Forum](https://tor.stackexchange.com)
 * [Tor Project](https://torproject.org)
 * [Tor Blog](https://blog.torproject.org/blog)
+* [Check Tor](https://check.torproject.org)
 
 ### Add Blockers and Anti Tracking
 * [Ublock Origin](https://ublockorigin.com/)
