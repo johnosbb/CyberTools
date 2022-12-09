@@ -9,3 +9,5 @@ Proxies are setup per application and do not use encrtption
 - [Largdo Proxy Test](https://www.lagado.com/tools/proxy-test)
 - [IP Leak Testing](https://ipleak.net/)
 - [Free Proxy Validation Site](http://ww1.proxyorca.com/)
+
+Note: Free Proxies are likely to be highly suspect
