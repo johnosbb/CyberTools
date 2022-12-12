@@ -11,3 +11,11 @@ Proxies are setup per application and do not use encrtption
 - [Free Proxy Validation Site](http://ww1.proxyorca.com/)
 
 Note: Free Proxies are likely to be highly suspect
+
+Proxy Froms
+- [anonymouse](anonymouse.org)
+- [webproxy](www.webproxy.ca)
+- [Hide My Ass](hidemyass.com)
+
+Webproxies can be detected and are not anonymous if the target machine uses code to direct you out of the proxy.
+
