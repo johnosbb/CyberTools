@@ -767,6 +767,11 @@ Many types of files contain metadata, authors, GPS co-ordinates, revision histor
 - [Cyber Weapons Lab](https://null-byte.wonderhowto.com/collection/cyber-weapons-lab/)
 
 
+## The Invisible Internet
+
+- [I2P](https://geti2p.net/en/)
+- [JonDo – the IP changer](https://anonymous-proxy-servers.net/en/jondo.html)
+
 # Deep Fakes
 
 ## AI librarys for Deep Fake Images and Video
