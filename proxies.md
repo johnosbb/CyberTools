@@ -22,4 +22,9 @@ Webproxies can be detected and are not anonymous if the target machine uses code
 ## Tunneling out through Firewalls
 
 - [corkscrew](https://github.com/bryanpkc/corkscrew)
-- [proxytunne](https://github.com/proxytunnel/proxytunnel)
+- [proxytunnel](https://github.com/proxytunnel/proxytunnel)
+- [httptunnel](https://github.com/larsbrinkhoff/httptunnel)
+- [Super Network Tunnel - Commercial](http://www.networktunnel.net)
+- [Cntlm Authentication Proxy](https://cntlm.sourceforge.net/)
+- [Barba Tunnel - A layer that hide, redirect. forward, re-encrypt internet packet to keep VPN, Proxies and other p2p software hidden from Firewall.](https://github.com/BarbaTunnelCoder/BarbaTunnel)
+
