@@ -19,3 +19,7 @@ Proxy Froms
 
 Webproxies can be detected and are not anonymous if the target machine uses code to direct you out of the proxy.
 
+## Tunneling out through Firewalls
+
+- [corkscrew](https://github.com/bryanpkc/corkscrew)
+- [proxytunne](https://github.com/proxytunnel/proxytunnel)
