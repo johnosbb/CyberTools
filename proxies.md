@@ -28,3 +28,14 @@ Webproxies can be detected and are not anonymous if the target machine uses code
 - [Cntlm Authentication Proxy](https://cntlm.sourceforge.net/)
 - [Barba Tunnel - A layer that hide, redirect. forward, re-encrypt internet packet to keep VPN, Proxies and other p2p software hidden from Firewall.](https://github.com/BarbaTunnelCoder/BarbaTunnel)
 
+## Detecting VPNS
+
+Many providers or sites try to actively detect if you are coming through a VPN. They do this by probing the services on the port you came from. One can evade this by running multiple services on the same port.
+A tool that can assist in this is : [sslh ](https://github.com/yrutschle/sslh)
+Open VPN also has a port share command.
+```sh
+port 443
+port-share 127.0.0.1 4443
+proto tcp
+```
+with SSL server running on 4443
