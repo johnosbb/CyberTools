@@ -46,3 +46,5 @@ with SSL server running on 4443
 - [Archived Homepage of Port Knocking](https://web.archive.org/web/20180726181817/http://www.portknocking.org/)
 - [Stunnel is an open-source multi-platform application used to provide a universal TLS/SSL tunneling service](https://www.stunnel.org/)
 - [obfsproxy](https://www.makeuseof.com/what-is-obfsproxy/)
+- [Psiphon](https://en.wikipedia.org/wiki/Psiphon)
+- [DNS Tunneling](https://github.com/iagox86/dnscat2)
