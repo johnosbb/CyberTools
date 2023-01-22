@@ -39,3 +39,8 @@ port-share 127.0.0.1 4443
 proto tcp
 ```
 with SSL server running on 4443
+
+
+### Evading Detection
+- [Port Knocking](https://wiki.archlinux.org/title/Port_knocking)
+- [Archived Homepage of Port Knocking](https://web.archive.org/web/20180726181817/http://www.portknocking.org/)
