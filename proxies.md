@@ -44,3 +44,5 @@ with SSL server running on 4443
 ### Evading Detection
 - [Port Knocking](https://wiki.archlinux.org/title/Port_knocking)
 - [Archived Homepage of Port Knocking](https://web.archive.org/web/20180726181817/http://www.portknocking.org/)
+- [Stunnel is an open-source multi-platform application used to provide a universal TLS/SSL tunneling service](https://www.stunnel.org/)
+- [obfsproxy](https://www.makeuseof.com/what-is-obfsproxy/)
