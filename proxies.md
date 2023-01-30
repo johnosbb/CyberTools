@@ -48,3 +48,8 @@ with SSL server running on 4443
 - [obfsproxy](https://www.makeuseof.com/what-is-obfsproxy/)
 - [Psiphon](https://en.wikipedia.org/wiki/Psiphon)
 - [DNS Tunneling](https://github.com/iagox86/dnscat2)
+
+
+## Remote Desktop Options
+
+- [Guacamole -  Apache Guacamole is a clientless remote desktop gateway](https://guacamole.apache.org/
