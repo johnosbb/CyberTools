@@ -52,5 +52,5 @@ with SSL server running on 4443
 
 ## Remote Desktop Options
 
-- [Guacamole -  Apache Guacamole is a clientless remote desktop gateway](https://guacamole.apache.org/
+- [Guacamole -  Apache Guacamole is a clientless remote desktop gateway](https://guacamole.apache.org/)
 - [Reverse Shells Cheat Sheets](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
