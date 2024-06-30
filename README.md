@@ -864,3 +864,6 @@ Best practice (media)
 * Wikimedia—wikimedia.org
 * WITNESS—witness.org
 
+* ## EU Law
+* EU Cyber Resillience Act [Presentation](..)
+
