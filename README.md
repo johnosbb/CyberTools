@@ -865,5 +865,5 @@ Best practice (media)
 * WITNESS—witness.org
 
 * ## EU Law
-* EU Cyber Resillience Act [Presentation](..)
+* EU Cyber Resillience Act [Presentation from Michael Roeder](https://github.com/johnosbb/CyberTools/blob/main/Security_CRA_Michael_Roeder.pdf)
 
