@@ -866,4 +866,5 @@ Best practice (media)
 
 * ## EU Law
 * EU Cyber Resillience Act [Presentation from Michael Roeder](https://github.com/johnosbb/CyberTools/blob/main/Security_CRA_Michael_Roeder.pdf)
+* A good introduction to the CRA and its implications at a business/product management level can be seen [here](https://vimeo.com/932408100/009eb6e58e).
 
